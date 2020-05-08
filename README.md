@@ -1,4 +1,4 @@
-# Face_Detection using Hars-Cascade classifier
+# Face_Detection using Haar-Cascade classifier
 
 NOTES ON PARAMETERS in
 `faceRects = face_cascade.detectMultiScale(gray, 1.1, 5)`
